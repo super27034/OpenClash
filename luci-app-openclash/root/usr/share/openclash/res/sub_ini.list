@@ -1,5 +1,6 @@
-SUPERules,SUPERules.ini,https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/SUPERules.ini
-SUPERtrade,SUPERtrade.ini,https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/SUPERtrade.ini
+Superules_full,Superules_full.ini,https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_full.ini
+Superules_trade,Superules_trade.ini,https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_trade.ini
+Superules_simple,Superules_simple.ini,https://raw.githubusercontent.com/super27034/SUPERules/refs/heads/main/Clash/Superules_simple.ini
 lhie1 洞主规则（使用 Clash 分组规则）,lhie1_clash.ini,https://gist.githubusercontent.com/vernesong/4c27ed54ab2a5fedd9c4011389ac11ed/raw/lhie1_clash.ini
 lhie1 洞主规则完整版,lhie1_dler.ini,https://gist.githubusercontent.com/vernesong/4c27ed54ab2a5fedd9c4011389ac11ed/raw/lhie1_dler.ini
 ACL4SSR 规则 Online Full Netflix,ACL4SSR_Online_Full_Netflix.ini,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini
