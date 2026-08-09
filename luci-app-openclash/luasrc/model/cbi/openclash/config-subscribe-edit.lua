@@ -213,10 +213,15 @@ o = s:option(Value, "convert_address", translate("Convert Address"))
 o.rmempty = true
 o.description = backend_version_status..font_red..bold_on..translate("Note: There is A Risk of Privacy Leakage in Online Convert")..bold_off..font_off
 o:depends("sub_convert", "1")
+
+-- 添加地址选项
+o:value("http://subconverterback.frp.super27034.top:25500/sub", translate("SUPER")..translate("(Default)"))
 o:value("https://api.asailor.org/sub", translate("api.asailor.org"))
 o:value("https://api.wcc.best/sub", translate("api.wcc.best"))
-o.default = "https://api.asailor.org/sub"
-o.placeholder = "https://api.asailor.org/sub"
+
+-- 设置默认地址为你的地址
+o.default = "http://subconverterback.frp.super27034.top:25500/sub"
+o.placeholder = "http://subconverterback.frp.super27034.top:25500/sub"
 
 ---- Template
 o = s:option(ListValue, "template", translate("Template Name"))
